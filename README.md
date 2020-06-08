@@ -1,2 +1,3 @@
 # hello-world
 learning how to use this site...
+I had a dream I was making an interactive website the other day. Currently I live in Chicago. Hoping that will change very shortly.
